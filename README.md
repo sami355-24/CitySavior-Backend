@@ -20,23 +20,23 @@
 </div>
 
 
-1️⃣ [Introduction](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-introduction)
+1️⃣ [Introduction](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-introduction)
 
-2️⃣ [Feature](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-features)
+2️⃣ [Feature](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-features)
 
-3️⃣ [Wireframe](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#%EF%B8%8F-wireframe)
+3️⃣ [Wireframe](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#%EF%B8%8F-wireframe)
 
-4️⃣ [ERD](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#%EF%B8%8F-erd)
+4️⃣ [ERD](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#%EF%B8%8F-erd)
 
-5️⃣ [Technologies](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#%EF%B8%8F-technologies)
+5️⃣ [Technologies](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#%EF%B8%8F-technologies)
 
-6️⃣ [Images](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-images)
+6️⃣ [Images](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-images)
 
-6️⃣ [Video](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-video) 
+6️⃣ [Video](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-video) 
 
-7️⃣ [Repository](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-repository)
+7️⃣ [Repository](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-repository)
 
-8️⃣ [Contributors](https://github.com/sami355-24/CitySavior-Backend/edit/main/README.md#-contributors)
+8️⃣ [Contributors](https://github.com/sami355-24/CitySavior-Backend?tab=readme-ov-file#-contributors)
 
 ---
 
